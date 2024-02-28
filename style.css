@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #6d11d6;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    padding: 8px 40px;
+    background-color: rgb(104, 250, 104);
+}
+
+form input {
+    padding: 8px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+#footer {
+    padding: 10px;
+    background-color: rgb(0, 89, 255);
+    color: #ffffff;
+}
+
+#footera {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+}
+
+.bubble {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.user-bubble {
+    background-color: #cce6ff;
+}
+
+.bot-bubble {
+    background-color: #e6f2ff;
+}
